@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "conditions": [],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poisonous_potato",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": {
+                  "text": "Librarian's Book and Glasses"
+                },
+                "minecraft:item_model": "vill_hats:librarian_book",
+                "minecraft:max_stack_size": 1,
+                "!minecraft:consumable": {},
+                "!minecraft:food": {},
+                "minecraft:equippable": {
+                  "slot": "head"
+                }
+              },
+              "conditions": []
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}
