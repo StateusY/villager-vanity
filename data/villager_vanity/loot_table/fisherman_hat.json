@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "conditions": [],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poisonous_potato",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": {
+                  "text": "Fisherman's Hat"
+                },
+                "minecraft:item_model": "villager_vanity:fisherman_hat",
+                "minecraft:max_stack_size": 1,
+                "!minecraft:consumable": {},
+                "!minecraft:food": {},
+                "minecraft:equippable": {
+                  "slot": "head"
+                }
+              },
+              "conditions": []
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}
