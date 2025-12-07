@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": "minecraft:string",
+    "G": "minecraft:black_wool"
+  },
+  "pattern": [
+    " I ",
+    "I I",
+    " IG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:poisonous_potato",
+    "components": {
+    "minecraft:item_name": {
+        "text": "Weaponsmith's Eyepatch"
+    },
+    "minecraft:item_model": "vill_hats:weaponsmith_eye_patch",
+    "minecraft:max_stack_size": 1,
+    "!minecraft:consumable": {},
+    "!minecraft:food": {},
+    "minecraft:equippable": {
+        "slot": "head"
+    }
+    }
+  }
+}

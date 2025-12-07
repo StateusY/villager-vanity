@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": "minecraft:wheat",
+    "G": "minecraft:leather"
+  },
+  "pattern": [
+    " G ",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:poisonous_potato",
+    "components": {
+    "minecraft:item_name": {
+        "text": "Farmer's Hat"
+    },
+    "minecraft:item_model": "vill_hats:farmer_hat",
+    "minecraft:max_stack_size": 1,
+    "!minecraft:consumable": {},
+    "!minecraft:food": {},
+    "minecraft:equippable": {
+        "slot": "head"
+    }
+    }
+  }
+}

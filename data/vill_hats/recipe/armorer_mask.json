@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": "iron_ingot",
+    "G": "minecraft:leather",
+    "W": "minecraft:iron_nugget"
+  },
+  "pattern": [
+    "GIG",
+    "IWI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:poisonous_potato",
+    "components": {
+    "minecraft:item_name": {
+        "text": "Armorer's Mask"
+    },
+    "minecraft:item_model": "vill_hats:armorer_mask",
+    "minecraft:max_stack_size": 1,
+    "!minecraft:consumable": {},
+    "!minecraft:food": {},
+    "minecraft:equippable": {
+        "slot": "head"
+    }
+    }
+  }
+}
