@@ -5,7 +5,7 @@ A 1.21.10 Datapack that adds all the various headwear that villagers have.
 
 This is Villager Vanity!
 
-If you have ever wanted to dress yourself in similar headwear to villagers world wide, you now can!
+If you have ever wanted to dress yourself in similar headwear to villagers worldwide, you now can!
 
 ![Hats on armorstands](https://cdn.modrinth.com/data/cached_images/20bc000b4a33623cd9a5ea4f7b01098b41c9258f.png)
 
