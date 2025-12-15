@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_brown_wool_charge": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:brown_wool"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_brown_carpet_charge": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:brown_carpet"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "villager_vanity:shepherd_hat"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_brown_carpet_charge",
+      "has_brown_wool_charge"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "villager_vanity:shepherd_hat"
+    ]
+  }
+}

@@ -2,22 +2,21 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "I": "iron_ingot",
-    "G": "minecraft:leather",
-    "W": "minecraft:iron_nugget"
+    "I": "minecraft:white_wool",
+    "G": "minecraft:orange_carpet"
   },
   "pattern": [
-    "GIG",
-    "IWI"
+    " I ",
+    "GGG"
   ],
   "result": {
     "count": 1,
     "id": "minecraft:poisonous_potato",
     "components": {
     "minecraft:item_name": {
-        "text": "Armorer's Mask"
+        "text": "Dusty Cap"
     },
-    "minecraft:item_model": "villager_vanity:armorer_mask",
+    "minecraft:item_model": "villager_vanity:desert_cap",
     "minecraft:max_stack_size": 1,
     "!minecraft:consumable": {},
     "!minecraft:food": {},
