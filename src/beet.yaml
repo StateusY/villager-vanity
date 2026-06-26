@@ -1,12 +1,12 @@
 data_pack:
     load: .
-    min_format: [94,1]
+    min_format: [88,1]
     max_format: [107,1]
     zipped: true
 
 resource_pack:
     load: .
-    min_format: [75,0]
+    min_format: [69,0]
     max_format: [88,0]
     zipped: true
 
@@ -20,5 +20,5 @@ pipeline:
 output: .build
 
 "description": [
-    {"text":"With Villager Vanity, you can dress like any villager you desire! (well only their hats)"}
+    {"text":"Villager hats now at your door!"}
 ]
