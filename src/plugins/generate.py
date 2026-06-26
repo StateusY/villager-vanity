@@ -118,27 +118,28 @@ def generate_recipe(ctx: Context, hat: Hat):
 
 def generate_recipe_unlock(ctx: Context, hat: Hat):
     """Unlocks recipe when an ingredient is picked up"""
-    custom_data = {"cnk":{"ingredient":{"type":recipe.id}}}
-    if recipe.loot_table:
-        custom_data = get_custom_data(ctx, recipe.loot_table)
-        if custom_data is None:
-            return
+    pass
+    # custom_data = {"cnk":{"ingredient":{"type":recipe.id}}}
+    # if recipe.loot_table:
+    #     custom_data = get_custom_data(ctx, recipe.loot_table)
+    #     if custom_data is None:
+    #         return
 
-    advancement = ctx.data.advancements["minecraft:recipes/root"].data
-    advancement["criteria"][f"cnk:{recipe.id}"] = {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-            "items": [
-            {
-                "items": "minecraft:poisonous_potato",
-                "predicates": {
-                "minecraft:custom_data": custom_data
-                }
-            }
-            ]
-        }
-    }
-    ctx.data[f"villager_vanity:recipes/equipment/{hat.id}"] = Advancement(advancement)
+    # advancement = ctx.data.advancements["minecraft:recipes/root"].data
+    # advancement["criteria"][f"cnk:{recipe.id}"] = {
+    #     "trigger": "minecraft:inventory_changed",
+    #     "conditions": {
+    #         "items": [
+    #         {
+    #             "items": "minecraft:poisonous_potato",
+    #             "predicates": {
+    #             "minecraft:custom_data": custom_data
+    #             }
+    #         }
+    #         ]
+    #     }
+    # }
+    # ctx.data[f"villager_vanity:recipes/equipment/{hat.id}"] = Advancement(advancement)
 
 def give_all(ctx: Context, hat: Hat):
     """Generate the give all function"""
