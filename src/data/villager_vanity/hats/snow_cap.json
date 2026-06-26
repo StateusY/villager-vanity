@@ -1,0 +1,12 @@
+{
+    "id": "snow_cap",
+    "name": "Snowy Cap",
+    "key": {
+        "G": "minecraft:white_carpet",
+        "W": "minecraft:cyan_wool"
+    },
+    "pattern": [
+        " G ",
+        "W W"
+    ]
+}

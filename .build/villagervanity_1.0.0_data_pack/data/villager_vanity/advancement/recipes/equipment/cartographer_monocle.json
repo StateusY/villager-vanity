@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_gold_nugget_charge": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:gold_nugget"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_glass_pane_charge": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:glass_pane"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "villager_vanity:cartographer_monocle"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_gold_nugget_charge",
+      "has_glass_pane_charge"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "villager_vanity:cartographer_monocle"
+    ]
+  }
+}

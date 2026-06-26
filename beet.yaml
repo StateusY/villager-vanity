@@ -1,0 +1,8 @@
+minecraft: "26.2"
+pipeline:
+  - extend: src
+
+output: .build
+
+version: 1.0.0
+name: VillagerVanity

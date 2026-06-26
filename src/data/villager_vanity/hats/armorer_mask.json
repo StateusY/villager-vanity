@@ -1,0 +1,13 @@
+{
+    "id": "armorer_mask",
+    "name": "Armorer's Mask",
+    "key": {
+        "I": "minecraft:iron_ingot",
+        "G": "minecraft:leather",
+        "W": "minecraft:iron_nugget"
+    },
+    "pattern": [
+        "GIG",
+        "IWI"
+    ]
+}

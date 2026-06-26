@@ -1,0 +1,12 @@
+{
+    "id": "librarian_book",
+    "name": "Librarian's Book and Glasses",
+    "key": {
+        "G": "minecraft:book",
+        "I": "minecraft:glass_pane"
+    },
+    "pattern": [
+        "G ",
+        "II"
+    ]
+}

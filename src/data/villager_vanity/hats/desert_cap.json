@@ -1,0 +1,12 @@
+{
+    "id": "desert_cap",
+    "name": "Dusty Cap",
+    "key": {
+        "I": "minecraft:white_wool",
+        "G": "minecraft:orange_carpet"
+    },
+    "pattern": [
+        " I ",
+        "GGG"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "savanna_headband",
+    "name": "Leafy Headband",
+    "key": {
+        "G": "minecraft:vine"
+    },
+    "pattern": [
+        " GG",
+        "G G",
+        "GG "
+    ]
+}

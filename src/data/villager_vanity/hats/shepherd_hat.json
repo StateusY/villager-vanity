@@ -1,0 +1,12 @@
+{
+    "id": "shepherd_hat",
+    "name": "Shepherd's Cap",
+    "key": {
+        "G": "minecraft:brown_wool",
+        "W": "minecraft:brown_carpet"
+    },
+    "pattern": [
+        "GGG",
+        "W W"
+    ]
+}

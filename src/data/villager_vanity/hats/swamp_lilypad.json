@@ -1,0 +1,12 @@
+{
+    "id": "swamp_lilypad",
+    "name": "Wet Lilypad",
+    "key": {
+        "G": "minecraft:leather",
+        "W": "minecraft:lily_pad"
+    },
+    "pattern": [
+        "W",
+        "G"
+    ]
+}

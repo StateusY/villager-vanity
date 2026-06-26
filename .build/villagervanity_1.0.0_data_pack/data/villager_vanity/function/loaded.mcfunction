@@ -1,0 +1,1 @@
+tellraw @a [{translate: "villager_vanity.tooltip", font: "villager_vanity:tooltip", color: "white", italic: false}, {text: " ", font: "minecraft:default"}, {translate: "villager_vanity.loaded", font: "minecraft:default"}]

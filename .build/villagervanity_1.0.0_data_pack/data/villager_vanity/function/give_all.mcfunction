@@ -1,0 +1,13 @@
+loot give @s loot villager_vanity:armorer_mask
+loot give @s loot villager_vanity:butcher_headband
+loot give @s loot villager_vanity:cartographer_monocle
+loot give @s loot villager_vanity:desert_cap
+loot give @s loot villager_vanity:farmer_hat
+loot give @s loot villager_vanity:fisherman_hat
+loot give @s loot villager_vanity:fletcher_hat
+loot give @s loot villager_vanity:librarian_book
+loot give @s loot villager_vanity:savanna_headband
+loot give @s loot villager_vanity:shepherd_hat
+loot give @s loot villager_vanity:snow_cap
+loot give @s loot villager_vanity:swamp_lilypad
+loot give @s loot villager_vanity:weaponsmith_eyepatch

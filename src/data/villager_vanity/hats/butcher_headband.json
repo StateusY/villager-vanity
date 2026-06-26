@@ -1,0 +1,11 @@
+{
+    "id": "butcher_headband",
+    "name": "Butcher's Headband",
+    "key": {
+        "G": "minecraft:leather"
+    },
+    "pattern": [
+        "G G",
+        "GGG"
+    ]
+}

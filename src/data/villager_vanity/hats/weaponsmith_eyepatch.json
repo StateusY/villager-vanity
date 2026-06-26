@@ -1,0 +1,13 @@
+{
+    "id": "weaponsmith_eyepatch",
+    "name": "Weaponsmith's Eyepatch",
+    "key": {
+        "I": "minecraft:string",
+        "G": "minecraft:black_wool"
+    },
+    "pattern": [
+        " I ",
+        "I I",
+        " IG"
+    ]
+}

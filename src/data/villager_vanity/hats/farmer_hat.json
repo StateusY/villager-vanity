@@ -1,0 +1,12 @@
+{
+    "id": "farmer_hat",
+    "name": "Farmer's Hat",
+    "key": {
+    "I": "minecraft:wheat",
+    "G": "minecraft:leather"
+  },
+  "pattern": [
+    " G ",
+    "III"
+  ]
+}

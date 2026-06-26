@@ -1,0 +1,12 @@
+{
+    "id": "fletcher_hat",
+    "name": "Fletcher's Cap",
+    "key": {
+        "I": "minecraft:feather",
+        "G": "minecraft:leather"
+    },
+    "pattern": [
+        "GGI",
+        "G G"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "cartographer_monocle",
+    "name": "Cartographer's Monocle",
+    "key": {
+        "I": "minecraft:gold_nugget",
+        "G": "minecraft:glass_pane"
+    },
+    "pattern": [
+        " II",
+        "IGI",
+        " I "
+    ]
+}

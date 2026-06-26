@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "conditions": [],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:poisonous_potato",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": {"translate": "villager_vanity.item.armorer_mask", "fallback": "ERROR: RESOURCE PACK NOT ENABLED"},
+                "minecraft:item_model": "villager_vanity:librarian_book",
+                "minecraft:max_stack_size": 1,
+                "!minecraft:consumable": {},
+                "minecraft:lore": [{"translate":"villager_vanity.tooltip","font":"villager_vanity:tooltip","color":"white","italic":false}],
+                "!minecraft:food": {},
+                "minecraft:equippable": {
+                  "slot": "head"
+                }
+              },
+              "conditions": []
+            }
+          ]
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}
