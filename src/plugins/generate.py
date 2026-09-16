@@ -71,9 +71,9 @@ def generate_loot_table(ctx: Context, hat: Hat):
                     {
                         "type": "minecraft:item",
                         "name": "minecraft:poisonous_potato",
-                        "functions": [
+                        "modifier": [
                             {
-                                "function": "minecraft:set_components",
+                                "type": "minecraft:set_components",
                                 "components": {
                                     "minecraft:item_name": {"translate":f"item.villager_vanity.{hat.id}", "fallback":"ERROR: RESOURCE PACK NOT ENABLED"},
                                     "minecraft:item_model": f"villager_vanity:{hat.id}",

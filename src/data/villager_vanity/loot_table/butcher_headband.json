@@ -8,9 +8,9 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:poisonous_potato",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_components",
+              "type": "minecraft:set_components",
               "components": {
                 "minecraft:item_name": {"translate": "villager_vanity.item.armorer_mask", "fallback": "ERROR: RESOURCE PACK NOT ENABLED"},
                 "minecraft:item_model": "villager_vanity:butcher_headband",

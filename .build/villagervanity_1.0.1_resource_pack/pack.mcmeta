@@ -1,0 +1,20 @@
+{
+  "pack": {
+    "description": [
+      [
+        {
+          "text": "Villager hats now at your door!"
+        }
+      ]
+    ],
+    "min_format": [
+      69,
+      0
+    ],
+    "max_format": [
+      97.1,
+      0
+    ]
+  },
+  "id": "villager_vanity"
+}
