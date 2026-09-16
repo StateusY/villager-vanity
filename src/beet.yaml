@@ -1,6 +1,6 @@
 data_pack:
     load: .
-    min_format: [121,0]
+    min_format: [111,0]
 		max_format: [121,0]
     zipped: true
 
