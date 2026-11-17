@@ -1,14 +1,12 @@
-# villager-vanity
-Villagers get cool hats, why don't we?
+# ![Villager Vanity](https://cdn.modrinth.com/data/cached_images/1f10f1976d00d91d1f09d2b7850113e2a35b587b.png)
 
-A Datapack that adds all the various headwear that villagers have.
 
-This is Villager Vanity!
 
-If you have ever wanted to dress yourself in similar headwear to villagers worldwide, you now can!
+If you have ever wanted to dress yourself in similar headwear to villagers world wide, you now can!
 
-![Hats on armorstands](https://cdn.modrinth.com/data/cached_images/20bc000b4a33623cd9a5ea4f7b01098b41c9258f.png)
+![Hat items scattered on a grassy plain](https://cdn.modrinth.com/data/cached_images/d21680a01102e4cd7e790eff4ee9171f0bdc9f60.webp)
 
+### The Roster of Hats
 All hats are crafted and can be worn (obviously).
 
 * Armorer's Mask
@@ -24,6 +22,7 @@ All hats are crafted and can be worn (obviously).
 * Snowy Cap
 * Wet Lilypad
 * Weaponsmith's Eyepatch
+## 
+ 
 
-Created By:
-Stateus and Pan_Womsacz
+![Pan wearing a bunch of the hats](https://cdn.modrinth.com/data/cached_images/7ca4cc914454a3aa01f1206c0d52d91d20d0d116.png)
